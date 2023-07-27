@@ -13,8 +13,7 @@
 For the past 12 years, I've been involved in software development within variously sized teams, predominantly operating in a remote environment. I usually occopy roles of Tecnical Program Manager, Head of R&D / Head of Product or Product / Project Manager, depending on the project scope, business domain and company / team size.
 
 <details><summary>Expand to read on about my experience</summary>
-
-
+<br/>
 My most recent experience lies in Technical Product Management, where I oversee product success, liaise between engineering and business teams, and represent stakeholders. Usually, I:
 - Analyse stakeholder needs, convert them into clear requirements and specifications, ensure teams understanding, and review execution plans
 - Own product delivery, direct reporting engineering managers and provide decision-making context for them. In smaller team I am capable of assuming direct project management duties
