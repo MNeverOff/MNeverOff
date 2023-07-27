@@ -14,7 +14,6 @@ For the past 12 years, I've been involved in software development within various
 
 <details><summary>Expand to read on about my experience</summary>
 
-For the past 12 years, I've been involved in software development within variously sized teams, predominantly operating in a remote environment.
 
 My most recent experience lies in Technical Product Management, where I oversee product success, liaise between engineering and business teams, and represent stakeholders. Usually, I:
 - Analyse stakeholder needs, convert them into clear requirements and specifications, ensure teams understanding, and review execution plans
