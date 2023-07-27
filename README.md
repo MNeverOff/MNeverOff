@@ -14,12 +14,15 @@ For the past 12 years, I've been involved in software development within various
 
 <details><summary>Expand to read on about my experience</summary>
 <br/>
+  
 My most recent experience lies in Technical Product Management, where I oversee product success, liaise between engineering and business teams, and represent stakeholders. Usually, I:
+  
 - Analyse stakeholder needs, convert them into clear requirements and specifications, ensure teams understanding, and review execution plans
 - Own product delivery, direct reporting engineering managers and provide decision-making context for them. In smaller team I am capable of assuming direct project management duties
 - Coordinate product delivery, manage and improving internal workflows, conduct internal and external training, analyse data pipelines, and oversee testing and quality assurance
 
 My skill set combines practical engineering capabilities and leadership experience:
+  
 - With over 8 years in software engineering as individual contributor, I have hands-on experience with front-end and back-end development, product management, systems analytics, and workflow engineering
 - For the past 5 years, I have held engineering management roles such as project manager, technical lead, and head of R&D. I've successfully delivered several projects in companies at various stages, ranging from early start-ups to established products, working with diverse, distributed teams of varying sizes and backgrounds
 
