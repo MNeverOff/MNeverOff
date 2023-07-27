@@ -2,10 +2,19 @@
 
 <hr/>
 
+## Welcome
+
 :wave: Hey there! This page is a small collection of my hobbyis projects that I had time to work on inbetween NDA'd jobs or stuff that I was allowed to make public through work or research activities.
 
+<hr/>
+
+## About
+
+For the past 12 years, I've been involved in software development within variously sized teams, predominantly operating in a remote environment. I usually occopy roles of Tecnical Program Manager, Head of R&D / Head of Product or Product / Project Manager, depending on the project scope, business domain and company / team size.
+
 <details><summary>Expand to read on about my experience</summary>
-For the past 12 years, I've been involved in software development within variously sized teams, predominantly operating in a remote environment
+
+For the past 12 years, I've been involved in software development within variously sized teams, predominantly operating in a remote environment.
 
 My most recent experience lies in Technical Product Management, where I oversee product success, liaise between engineering and business teams, and represent stakeholders. Usually, I:
 - Analyse stakeholder needs, convert them into clear requirements and specifications, ensure teams understanding, and review execution plans
