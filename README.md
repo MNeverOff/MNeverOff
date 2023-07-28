@@ -6,9 +6,7 @@
 
 :wave: Hey there! This page is a small collection of my hobbyis projects that I had time to work on inbetween NDA'd jobs or stuff that I was allowed to make public through work or research activities.
 
-<hr/>
-
-## About
+### About
 
 For the past 12 years, I've been involved in software development within variously sized teams, predominantly operating in a remote environment. I usually occopy roles of Tecnical Program Manager, Head of R&D / Head of Product or Product / Project Manager, depending on the project scope, business domain and company / team size.
 
