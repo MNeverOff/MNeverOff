@@ -1,4 +1,4 @@
-### 👀 As of summer 2023, I'm open to new opportunities in Product roles.
+### 👀 As of September 2023, I'm open to new opportunities in Product roles.
 
 <hr/>
 
