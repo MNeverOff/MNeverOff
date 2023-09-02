@@ -1,4 +1,4 @@
-### 👀 As of summer 2023, I'm open to new opportunities in both individual contributor and managerial roles.
+### 👀 As of summer 2023, I'm open to new opportunities in Product roles.
 
 <hr/>
 
