@@ -4,7 +4,7 @@
 
 ## Welcome
 
-:wave: Hey there! This page is a small collection of my hobbyis projects that I had time to work on inbetween NDA'd jobs or stuff that I was allowed to make public through work or research activities.
+:wave: Hey there! This page is a small collection of my hobbyist projects that I had time to work on inbetween NDA'd jobs or stuff that I was allowed to make public through work or research activities.
 
 ### About
 
