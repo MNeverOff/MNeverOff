@@ -8,18 +8,16 @@
 
 ### About
 
-For the past 10 years, I've been involved in software development within variously sized teams, predominantly operating in a remote environment in positions varying from Software Engineer to Head of Product.
+For the past 10 years I've been involved in software development within variously sized teams, mostly operating in a remote environment in roles such as SWE, yielding me technical competency, then Technical Product Manager and Head of Product.
 
 <details><summary>Expand to read on about my experience</summary>
 <br/>
 
-My most recent experience lies in Technical Product Management, where I oversee product success, liaise between engineering and business teams, represent stakeholders and quantify business value.
-
 #### Responsibilities
 
-- Analyse stakeholder needs, convert them into clear requirements and specifications, ensure teams understanding, and review execution plans
-- Own and coordinate product delivery, guide reporting engineering managers, and provide context for insightful decision-making
-- In smaller teams I assume direct product management duties as well as iterate on workflows, conduct training, analyse data pipelines, and oversee ideation, release, and quality assurance flows.
+- Analyse stakeholder needs, convert them into clear requirements and specifications, ensure teams understanding, and review execution plans.
+- Own and coordinate product delivery, guide reporting managers, collaborate with peers cross-team, and provide crucial context for insightful decision-making,
+- Iterate on workflows, conduct training, analyse data pipelines, and oversee ideation, release, quality assurance, and experimentation flows.
 
 My skill set combines practical engineering capabilities and leadership experience:
   
