@@ -1,14 +1,10 @@
-### 👀 As of September 2023, I'm open to new opportunities in Product roles.
-
-<hr/>
-
 ## Welcome
 
 :wave: Hey there! This page is a small collection of my hobbyist projects that I had time to work on inbetween NDA'd jobs or stuff that I was allowed to make public through work or research activities.
 
 ### About
 
-For the past 10 years I've been involved in software development within variously sized teams, mostly operating in a remote environment in roles such as SWE, yielding me technical competency, then Technical Product Manager and Head of Product.
+In the past 12 years, I worked on SaaS and on-premises products in Esports, Event Management, Compliance, AI, Crypto and Access Control in small-to-medium remote teams during startup and scaleup stages in roles from SWE to Head of Product.
 
 <details><summary>Expand to read on about my experience</summary>
 <br/>
@@ -16,7 +12,7 @@ For the past 10 years I've been involved in software development within variousl
 #### Responsibilities
 
 - Analyse stakeholder needs, convert them into clear requirements and specifications, ensure teams understanding, and review execution plans.
-- Own and coordinate product delivery, guide reporting managers, collaborate with peers cross-team, and provide crucial context for insightful decision-making,
+- Own and coordinate product delivery, guide reporting managers, collaborate with peers cross-team, and provide crucial context for insightful decision-making.
 - Iterate on workflows, conduct training, analyse data pipelines, and oversee ideation, release, quality assurance, and experimentation flows.
 
 My skill set combines practical engineering capabilities and leadership experience:
