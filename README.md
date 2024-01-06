@@ -7,7 +7,7 @@
 In the past 12 years, I worked on SaaS and on-premises products in Esports, Event Management, Compliance, AI, Crypto and Access Control in small-to-medium remote teams during startup and scaleup stages in roles from SWE to Head of Product.
 
 <details><summary>Expand to read on about my experience</summary>
-<br/>
+  
 #### Responsibilities
 
 - Analyse stakeholder needs, convert them into clear requirements and specifications, ensure teams understanding, and review execution plans.
