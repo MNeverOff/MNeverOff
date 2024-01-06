@@ -8,7 +8,6 @@ In the past 12 years, I worked on SaaS and on-premises products in Esports, Even
 
 <details><summary>Expand to read on about my experience</summary>
 <br/>
-
 #### Responsibilities
 
 - Analyse stakeholder needs, convert them into clear requirements and specifications, ensure teams understanding, and review execution plans.
