@@ -7,7 +7,7 @@
 For the past 12 years I led and managed remote cross-functional teams, delivering SaaS and on-premises B2B, B2C and B2B2C products in Esports, Compliance, AI, Fintech and other business domains, in roles from Tech Lead to Head of Product.
 
 <details><summary>Expand to read on about my experience</summary>
-  
+<br/>
 Early years in software engineering as individual contributor positioned me well for technical leadership in both product and engineering roles. I have hands-on experience with front-end and back-end development, product management, systems analytics, and workflow engineering. I've successfully delivered dozens of products in companies ranging from early start-ups to established product orgs, working with diverse, distributed cross-functional teams of varying sizes and backgrounds.
 
 My headline skills:
