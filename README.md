@@ -8,14 +8,17 @@ For the past 12 years I led and managed remote cross-functional teams, deliverin
 
 <details><summary>Expand to read on about my experience</summary>
 <br/>
+
 Early years in software engineering as individual contributor positioned me well for technical leadership in both product and engineering roles. I have hands-on experience with front-end and back-end development, product management, systems analytics, and workflow engineering. I've successfully delivered dozens of products in companies ranging from early start-ups to established product orgs, working with diverse, distributed cross-functional teams of varying sizes and backgrounds.
 <br/>
+
 My headline skills:
 - I am specialised in overseeing the full product development lifecycle for a rich portfolio of B2B, B2C, and B2B2C products, with a focus on delivering value to customers and stakeholders.
 - My proven leadership track-record in building and guiding cross-functional teams, fostering a constructive and transparent workplace environment that nurtures growth and innovation.
 - Developing project plans that align with strategic business initiatives and successfully driving those plans to fruition, evidenced by enhanced product value and substantial growth in feature-led revenue.
 - Consistent history of identifying risks early and developing mitigation strategies that secure project success and minimise scope creep.
 - Articulate communicator adept at translating complex technical information into clear, actionable insight for stakeholders, ensuring all parties are aligned with project goals.
+<br/>
 
 And qualifications:
 - Years of experience as a software engineer founding the technical background with a strong track record of leveraging data for decision-making and utilising a customer-focused approach to meet market and user demands.
