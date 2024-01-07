@@ -4,24 +4,24 @@
 
 ### About
 
-In the past 12 years, I worked on SaaS and on-premises products in Esports, Event Management, Compliance, AI, Crypto and Access Control in small-to-medium remote teams during startup and scaleup stages in roles from SWE to Head of Product.
+For the past 12 years I led and managed remote cross-functional teams, delivering SaaS and on-premises B2B, B2C and B2B2C products in Esports, Compliance, AI, Fintech and other business domains, in roles from Tech Lead to Head of Product.
 
 <details><summary>Expand to read on about my experience</summary>
-  
-#### Responsibilities
+Early years in software engineering as individual contributor positioned me well for technical leadership in both product and engineering roles. I have hands-on experience with front-end and back-end development, product management, systems analytics, and workflow engineering. I've successfully delivered dozens of products in companies ranging from early start-ups to established product orgs, working with diverse, distributed cross-functional teams of varying sizes and backgrounds.
 
-- Analyse stakeholder needs, convert them into clear requirements and specifications, ensure teams understanding, and review execution plans.
-- Own and coordinate product delivery, guide reporting managers, collaborate with peers cross-team, and provide crucial context for insightful decision-making.
-- Iterate on workflows, conduct training, analyse data pipelines, and oversee ideation, release, quality assurance, and experimentation flows.
+My headline skills:
+- I am specialised in overseeing the full product development lifecycle for a rich portfolio of B2B, B2C, and B2B2C products, with a focus on delivering value to customers and stakeholders.
+- My proven leadership track-record in building and guiding cross-functional teams, fostering a constructive and transparent workplace environment that nurtures growth and innovation.
+- Developing project plans that align with strategic business initiatives and successfully driving those plans to fruition, evidenced by enhanced product value and substantial growth in feature-led revenue.
+- Consistent history of identifying risks early and developing mitigation strategies that secure project success and minimise scope creep.
+- Articulate communicator adept at translating complex technical information into clear, actionable insight for stakeholders, ensuring all parties are aligned with project goals.
 
-My skill set combines practical engineering capabilities and leadership experience:
-  
-- With over 8 years in software engineering as individual contributor, I have hands-on experience with front-end and back-end development, product management, systems analytics, and workflow engineering
-- For the past 5 years, I have held engineering management roles such as project manager, technical lead, and head of R&D. I've successfully delivered several projects in companies at various stages, ranging from early start-ups to established products, working with diverse, distributed teams of varying sizes and backgrounds
-
-Having experienced the software engineering process from both the development and management perspectives, I can effectively oversee products, balancing business value, accountability, and technical excellence.
-
-My software engineering knowledge allows me to work proficiently with various development tools, version control systems, databases (SQL and no-SQL), as well as multiple programming languages and frameworks. My managerial and analytical background has honed my skills in use and test cases, customer journey mapping, Jira/Confluence and other project management software, and various project management frameworks (Agile, ITSM, etc.), along with effective interpersonal communication techniques.
+And qualifications:
+- Years of experience as a software engineer founding the technical background with a strong track record of leveraging data for decision-making and utilising a customer-focused approach to meet market and user demands.
+- Hands-on experience implementing Agile methodologies to streamline project delivery and enhance team productivity, while tailoring processes to fit unique product team needs.
+- Demonstrated success in engaging directly with customers and stakeholders to gather critical feedback and insights, fortifying customer advocacy and fostering stakeholder trust.
+- Expert in driving product strategy, identifying new opportunities for product growth, and executing marketing plans for new product launches, contributing to significant revenue growth.
+- Proficient in data analysis with SQL, functional and declarative programming languages, and up-to-date with the latest AI/ML technologies, including LLMs and LDMs.
 </details>
 
 <!--
