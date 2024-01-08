@@ -1,12 +1,7 @@
 ## Welcome
 
 With my wonderful time at ggCircuit coming to an end last year I’m now actively looking for the next big challenge! #OpenToWork
-
-👋 I’ve spent the last 5 years in Product, in roles from Technical Product Manager to Head of Product and am looking to continue on this side of software engineering in the next company. This experience is predated by 8 years in different IC Software Engineering positions, mostly as a full-stack web developer.
-
-⭐️ My domain expertise spans Esports, Compliance, AI (ML/DS), Fintech, Gaming, and other many others. I’ve delivered both SaaS and on-premises solutions in B2B, B2C and B2B2C segments with audiences ranging from 300 businesses to 3,000,000 end users.
-
-🔍 I'm looking for a remote role as a Senior PM/PgM, have ample experience working in distributed and cross-functional teams of diverse backgrounds and am comfortable with both US and EMEA timezones.
+Read on for details: https://www.linkedin.com/feed/update/urn:li:activity:7150155285498589184/
 
 :wave: Hey there! This page is a small collection of my hobbyist projects that I had time to work on inbetween NDA'd jobs or stuff that I was allowed to make public through work or research activities.
 
