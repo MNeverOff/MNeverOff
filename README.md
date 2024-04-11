@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a product-minded tech lead & software engineer and for the past 12 years I led and managed remote cross-functional teams, delivering SaaS and on-premises B2B, B2C and B2B2C products in Esports, Compliance, AI, Fintech and other business domains, in roles from SWE to Head of Engineering.
+I'm a tech lead & product-minded software engineer and for the past 12 years I led and managed remote cross-functional teams, delivering SaaS and on-premises B2B, B2C and B2B2C products in Esports, Compliance, AI, Fintech and other business domains, in roles from SWE to Head of Engineering.
 
 <details><summary>Expand to read on about my experience</summary>
 <br/>
