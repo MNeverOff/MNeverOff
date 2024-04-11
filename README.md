@@ -1,6 +1,8 @@
-:wave: Hey there! This page is a small collection of my hobbyist projects that I had time to work on inbetween NDA'd jobs or stuff that I was allowed to make public through work or research activities.
+#:wave: Hey there, I'm Mike!
 
-### About Me
+This page is a small collection of my hobbyist projects that I had time to work on inbetween NDA'd jobs or stuff that I was allowed to make public through work or research activities.
+
+## About Me
 
 I'm a tech lead & product-minded software engineer and for the past 12 years I led and managed remote cross-functional teams, delivering SaaS and on-premises B2B, B2C and B2B2C products in Esports, Compliance, AI, Fintech and other business domains, in roles from SWE to Head of Engineering.
 
