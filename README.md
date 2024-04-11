@@ -1,4 +1,4 @@
-#:wave: Hey there, I'm Mike!
+# :wave: Hey there, I'm Mike!
 
 This page is a small collection of my hobbyist projects that I had time to work on inbetween NDA'd jobs or stuff that I was allowed to make public through work or research activities.
 
