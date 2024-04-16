@@ -4,31 +4,31 @@ This page is a small collection of my hobbyist projects that I had time to work 
 
 ## About Me
 
-I'm a tech lead & product-minded software engineer and for the past 12 years I led and managed remote cross-functional teams, delivering SaaS and on-premises B2B, B2C and B2B2C products in Esports, Compliance, AI, Fintech and other business domains, in roles from SWE to Head of Engineering.
+I'm a tech lead & product-minded software engineer and over the past 12 years I took part, led and managed remote cross-functional teams, delivering SaaS and on-prem B2B, B2C and B2B2C products in Esports, Compliance, AI, Events and other business domains, in roles from SWE to Head of Engineering.
+
 
 <details><summary>Expand to read on about my experience</summary>
 <br/>
 
-Early years in software engineering as an individual contributor positioned me well for technical leadership in both engineering and product roles. I have hands-on experience with front-end and back-end development, product management, systems analytics, and workflow engineering. I've successfully delivered dozens of products in companies ranging from early start-ups to established product orgs, working with diverse, distributed cross-functional teams of varying sizes and backgrounds.
+Throughout my career, transitioning from individual contributor roles to head of engineering positions, I've developed a deep technical expertise alongside strategic leadership in both engineering and product-oriented capacities. This journey cultivated an adeptness in front-end and back-end development, systems analysis, and the engineering of efficient workflows, ensuring seamless delivery of high-quality software products. My tenure in various roles has been characterised by a commitment to bridging the gap between technical challenges and business objectives, facilitating delivery of solutions that resonate with users and achieve significant business impact.
 
 <br/>
 
 My headline skills:
 
-- I am specialised in overseeing the full product development lifecycle for a rich portfolio of B2B, B2C, and B2B2C products, with a focus on delivering value to customers and stakeholders.
-- My proven leadership track-record in building and guiding cross-functional teams, fostering a constructive and transparent workplace environment that nurtures growth and innovation.
-- Developing project plans that align with strategic business initiatives and successfully driving those plans to fruition, evidenced by enhanced product value and substantial growth in feature-led revenue.
-- Consistent history of identifying risks early and developing mitigation strategies that secure project success and minimise scope creep.
-- Articulate communicator adept at translating complex technical information into clear, actionable insight for stakeholders, ensuring all parties are aligned with project goals.
+- Mastery in engineering scalable, reliable software solutions, marked by a profound understanding of the software development lifecycle from concept through deployment and beyond.
+- Skilled leadership in steering cross-functional engineering teams towards excellence, championing agile methodologies, and fostering an environment that encourages innovation, transparency, and growth.
+- Proven ability to manage, prioritise, and guide projects to success while minimising risks and maintaining tight focus on delivering value and enhancing the customer experience.
+- Direct engagement with stakeholders and customers, adeptly translating technical details into digestible insights to align project objectives with user needs and business goals.
+
 <br/>
 
-And qualifications:
+Qualifications:
 
-- Years of experience as a software engineer founding the technical background with a strong track record of leveraging data for decision-making and utilising a customer-focused approach to meet market and user demands.
-- Hands-on experience implementing Agile methodologies to streamline project delivery and enhance team productivity, while tailoring processes to fit unique product team needs.
-- Demonstrated success in engaging directly with customers and stakeholders to gather critical feedback and insights, fortifying customer advocacy and fostering stakeholder trust.
-- Expert in driving product strategy, identifying new opportunities for product growth, and executing marketing plans for new product launches, contributing to significant revenue growth.
-- Proficient in data analysis with SQL, functional and declarative programming languages, and up-to-date with the latest AI/ML technologies, including LLMs and LDMs.
+- Extensive software engineering experience underpinned by practical knowledge in a wide array of programming languages and technological frameworks, including expertise in AI/ML technologies like LLMs and LDMs.
+- Robust application of data-driven decision-making processes, leveraging deep analytics skills to inform strategy and optimise product functionality.
+- Agile project delivery expert, with a track record of adapting and customising methodologies to fit the unique needs of diverse teams and projects, enhancing productivity and efficiency.
+- Effective communicator and facilitator, excelling in building trust and alignment among teams, stakeholders, and customers through transparent and insightful dialogue.
 
 </details>
 
