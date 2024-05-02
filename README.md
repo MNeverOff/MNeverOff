@@ -34,9 +34,9 @@ Qualifications:
 
 Tech & Tools:
 
-- JavaScript/TypeScript, C#, Python, Go, C/C++, PHP.
+- JavaScript/TypeScript, C#, Python, Go, C/C++.
 - React, Redux, .NET Core, ASP.NET, Node.js, SQL/NoSQL.
-- GenAI (LLM, LDM), ML & DS, AWS, Azure, Docker, Git.
+- GenAI (LLM, LDM), ML & DS, AWS, Azure, Docker, Redis, Git.
 - Agile (Scrum/Kanban), ITSM, SAFe, RUP, Waterfall.
 
 </details>
